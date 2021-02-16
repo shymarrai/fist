@@ -45,6 +45,16 @@ A idéia foi que todo o conteúdo do site fosse dinâmico e que o usuário poder
 <details>
   <summary>Mobile📱</summary>
   
+  ![screenshot](screenshot2.jpg)  
+  ![screenshot](screenshot4.jpg)
+  ![screenshot](screenshot6.jpg)
+  ![screenshot](screenshot8.jpg)
+  ![screenshot](screenshot10.jpg)
+  ![screenshot](screenshot12.jpg)
+  ![screenshot](screenshot14.jpg)
+  ![screenshot](screenshot16.jpg)
+  ![screenshot](screenshot18.jpg)
+  ![screenshot](screenshot20.jpg) 
   
   
 </details>
