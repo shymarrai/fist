@@ -1,4 +1,4 @@
-# fist⌚
+# Fist Gallery⌚
 E-commerce de relojoaria
 
 
@@ -10,7 +10,7 @@ A idéia foi que todo o conteúdo do site fosse dinâmico e que o usuário poder
 
 
 
-# Skills
+# Skills👨‍💻
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">&nbsp;
 &nbsp;
@@ -21,5 +21,21 @@ A idéia foi que todo o conteúdo do site fosse dinâmico e que o usuário poder
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">&nbsp;
 &nbsp;
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">&nbsp;
+
+
+# Examples
+<details>
+  <summary>Desktop💻🖥</summary>
+  
+  
+  
+</details>
+
+<details>
+  <summary>Mobile📱</summary>
+  
+  
+  
+</details>
 
 
