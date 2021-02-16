@@ -1,3 +1,4 @@
+![screenshot](banner.jpg)
 # Fist Gallery⌚
 E-commerce de relojoaria
 
@@ -26,7 +27,16 @@ A idéia foi que todo o conteúdo do site fosse dinâmico e que o usuário poder
 # Examples
 <details>
   <summary>Desktop💻🖥</summary>
-  
+  ![screenshot](screenshot.jpg)
+  ![screenshot](screenshot3.jpg)
+  ![screenshot](screenshot5.jpg)
+  ![screenshot](screenshot7.jpg)
+  ![screenshot](screenshot9.jpg)
+  ![screenshot](screenshot11.jpg)
+  ![screenshot](screenshot13.jpg)
+  ![screenshot](screenshot15.jpg)
+  ![screenshot](screenshot17.jpg)
+  ![screenshot](screenshot19.jpg)
   
   
 </details>
