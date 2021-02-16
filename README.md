@@ -53,7 +53,7 @@ A idéia foi que todo o conteúdo do site fosse dinâmico e que o usuário poder
   ![screenshot](screenshot12.jpg)
   ![screenshot](screenshot14.jpg)
   ![screenshot](screenshot16.jpg)
-  ![screenshot](screenshot18.jpg)
+  ![screenshot](screenshot18,.jpg)
   ![screenshot](screenshot20.jpg) 
   
   
