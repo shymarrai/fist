@@ -27,7 +27,8 @@ A idéia foi que todo o conteúdo do site fosse dinâmico e que o usuário poder
 # Examples
 <details>
   <summary>Desktop💻🖥</summary>
-  ![screenshot](screenshot.jpg)
+  
+  ![screenshot](screenshot.jpg)  
   ![screenshot](screenshot3.jpg)
   ![screenshot](screenshot5.jpg)
   ![screenshot](screenshot7.jpg)
